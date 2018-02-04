@@ -1,7 +1,7 @@
 # Site settings
 title: "Stichting Fly Aware"
 company: "Stichting Fly Aware"
-email: "stichtingflyaware@gmail.com"
+email: "flyaware@gmail.com"
 description: >
   "Stichting Fly Aware ..."
 
@@ -32,9 +32,9 @@ contact:
 
 telefoon: 085-0654839
 
-#email: stichtingflyaware@gmail.com
+#email: flyaware@gmail.com
 
 postadres:
   - Blikkenburgerlaan 1
   - 3703 CV Zeist
-  - <span class="glyphicon glyphicon-envelope"></span> <a href="mailto:stichtingflyaware@gmail.com">stichtingflyaware@gmail.com</a>
+  - <span class="glyphicon glyphicon-envelope"></span> <a href="mailto:flyaware@gmail.com">flyaware@gmail.com</a>
