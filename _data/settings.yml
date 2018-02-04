@@ -9,10 +9,10 @@ seo:
   description: "Stichting Fly Aware ..."
   keywords: ''
   logo: 'logos/logo-flyaware.svg'
-  rel-author: 'Publiceervoormij.nl'
-  rel-publisher: 'Publiceervoormij.nl'
-  web-design: 'Publiceervoormij.nl'
-  web-author: 'Publiceervoormij.nl'
+  #rel-author: 'Publiceervoormij.nl'
+  #rel-publisher: 'Publiceervoormij.nl'
+  #web-design: 'Publiceervoormij.nl'
+  #web-author: 'Publiceervoormij.nl'
   robots: 'index,follow'
 
 #Google Analytics
@@ -32,7 +32,7 @@ contact:
 
 telefoon: 085-0654839
 
-email: stichtingflyaware@gmail.com
+#email: stichtingflyaware@gmail.com
 
 postadres:
   - Blikkenburgerlaan 1
